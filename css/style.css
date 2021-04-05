@@ -1,0 +1,481 @@
+/*font-family: 'Montserrat', sans-serif;
+  font-family: 'Oswald', sans-serif;
+  font-family: 'Nunito', sans-serif
+*/
+
+body{
+
+	font-family: 'Montserrat', sans-serif;
+  font-family: 'Oswald', sans-serif;
+  font-family: 'Nunito', sans-serif;
+	
+}
+
+/*Header Start*/
+header{
+	
+	background: #303030;
+	padding:0px 0px;
+}
+
+#header {
+  transition: all 0.5s;
+  z-index: 997;
+ 
+  background: #303030;
+  padding:0px 0px;
+}
+
+
+
+.menu{}
+.menu ul{}
+.menu ul li{}
+.menu ul li a{
+	font-family: 'Oswald', sans-serif;
+	font-weight: 400;
+	font-size: 25px;
+	color:#fff!important;
+	padding: 0px 20px!important;
+	transition: .3s;
+}
+.menu ul li a:hover{
+	color:#e8631c!important;
+  transition: 0.3s;
+}
+.menu ul li:last-child a{
+   padding-right: 0!important;
+}
+.glp{
+	color: #fff;
+}
+.b_foqas{
+	outline: 0!important;
+    box-shadow: none!important;
+}
+
+#hero {
+  background: url("../images/back1.jpg") top center;
+  width: 100%;
+  height: 795px;
+  background-size: cover;
+  position: relative;
+}
+/*Header End*/
+.left_side{
+
+}
+.left_side h1{
+
+	margin-top:220px;
+font-family: 'Oswald', sans-serif;
+font-weight: 400;
+font-size: 82.63px;
+color: #ffffff;
+
+}
+
+.left_side p{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+    font-size: 24.72px;
+    color: #ffffff
+
+}
+
+.left_side button{
+	width: 290px;
+    height: 60px;
+    background-color: #e8631c;
+    border: none;
+   font-family: 'Oswald', sans-serif;
+    font-size: 29.17px;
+    font-weight: 400;
+    color: white;
+    text-transform: uppercase;
+    
+
+}
+
+.left_side button:hover{
+
+    background-color: #fff!important;
+   color:#e8631c!important;
+   transition: 0.3s;
+
+}
+
+
+/*Dance Tour Start*/
+
+.d_tour{
+
+  background: url("../images/dance_bg.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  	padding-top: 80px;
+padding-bottom: 100px;
+}
+.c_h1{
+font-family: 'Oswald', sans-serif;
+font-size: 75px;
+font-weight: 700;
+ text-transform: uppercase;
+margin-bottom: 40px;
+color: #fff;
+}
+
+.c_p1{
+font-family: 'Montserrat', sans-serif;
+font-size: 29.72px;
+font-weight: 400;
+color: #fff;
+line-height: 35px;
+word-spacing: -1px;
+padding-bottom: 50px;
+}
+
+.m_t{
+	margin-top: 60px;
+}
+
+.card {
+    
+    border:none!important;
+    border-radius: 0!important;
+}
+.c_bb{
+	background-color: #303030;
+}
+
+.c_title{
+	font-family: font-family: 'Oswald', sans-serif;
+	font-size: 36.95px;
+	font-weight: 400;
+	text-align: center;
+	color: #fff;
+}
+.p_c{
+
+	font-family: 'Montserrat', sans-serif;
+	font-size: 22.17px;
+	font-weight: 400;
+	text-align: center;
+	letter-spacing: -1px;
+	color: #fff;
+}
+/*Dance Tour End*/
+
+
+/*Pricing*/
+
+.d_tour1{
+
+  background: url("../images/bg_3.jpeg");
+  background-size: cover;
+  background-repeat: no-repeat;
+padding-top: 80px;
+padding-bottom: 100px;
+}
+
+.im img{
+  width: 120px;
+    height: 140px;
+}
+
+.im{
+  margin-top: 50px;
+    padding-bottom: 20px;
+}
+.price{
+   background-color: #e8631c;
+}
+.c_pricing{
+  background-color: #e8631c;
+}
+
+.c_pricing a{
+  background: #303030;
+  color: #fff;
+}
+.c_pricing a:hover{
+  background:#fff;
+  color: #303030;
+}
+
+.c_title1{
+  font-family: font-family: 'Oswald', sans-serif;
+  font-size: 36.95px;
+  font-weight: 600;
+  text-align: center;
+  color: #fff;
+}
+
+/*Pricing*/
+
+/*Amazing Start*/
+
+.amazing{
+
+  background: url("../images/angle.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+
+
+}
+.d_h1{
+font-family: 'Oswald', sans-serif;
+font-size: 75px;
+font-weight: 700;
+ text-transform: uppercase;
+margin-bottom: 10px;
+color: #fff;
+}
+.d_p{
+font-family: 'Montserrat', sans-serif;
+font-size: 29.72px;
+font-weight: 400;
+color: #fff;
+line-height: 35px;
+letter-spacing: -1px;
+padding-top: 26px;
+padding-bottom: 26px;
+}
+.d_content{
+  margin-top: 170px;
+}
+
+.d_content button{
+  width: 320px;
+  height: 66px;
+  font-family: 'Oswald', sans-serif;
+  font-size: 29.17px;
+  font-weight: 400;
+  background-color: #303030;
+  color: #fff;
+  border:none;
+  text-transform: uppercase;
+}
+.d_content button:hover{
+
+    background-color: #fff!important;
+   color:#e8631c!important;
+   transition: 0.4s;
+
+}
+
+
+/*Amazing End*/
+
+
+/*Statistics Start*/
+.stat{
+  background-color: #303030;
+    padding-top: 80px;
+padding-bottom: 100px;
+}
+
+.counter-count{
+  font-family: 'Oswald', sans-serif;
+  font-size: 66.84px;
+  font-weight: 700;
+  color: #fff;
+}
+.employee-p{
+font-family: 'Montserrat', sans-serif;
+font-size: 41.67px;
+font-weight: 400;
+color: #fff;
+
+}
+/*Statistics End*/
+
+/*Hearbrt Start*/
+.herbert{
+
+  background: url("../images/before.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 947px;
+
+}
+.h_p{
+  margin-top: 300px;
+   font-family: 'Nunito', sans-serif;
+   font-size: 50px;
+   letter-spacing: -2px;
+   color: #fff; 
+}
+
+.h_h1{
+  font-family: 'Oswald', sans-serif;
+  font-size: 58.33px;
+  font-weight: 700;
+  color: #fff;
+}
+/*Hearbrt End*/
+
+/*Subscribe Start*/
+.subscribe{
+  background: url("../images/last_back.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  padding-top: 80px;
+padding-bottom: 100px;
+  
+ 
+}
+
+.f_email {
+    /* width: 545px; */
+    /* padding-right: 0px!important; */
+ 
+    width: 100%;
+    border: none;
+    border-radius: 0px;
+    height: 60px;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 25px;
+    color: #898989!important;
+    
+}
+
+.f-submit {
+    width: 100%;
+    padding: 0px;
+    height: 60px;
+    border-radius: 0px;
+    background-color: #303030;
+     font-family: 'Oswald', sans-serif!important;
+    font-size: 25px;
+    font-weight: 600;
+    text-transform: uppercase;
+    color: #fff!important;
+}
+.pad1{
+  padding-right: 0;
+}
+.pad2{
+  padding-left: 0;
+}
+.f_email:focus {
+ 
+    outline: 0;
+    box-shadow: none;
+}
+.f-submit:focus{
+  outline: 0;
+  box-shadow: none;
+}
+
+/*Subscribe End*/
+
+/*Footer Start*/
+#footer {
+  background: black;
+ 
+  color: #fff;
+  font-size: 14px;
+}
+
+#footer .footer-top {
+  background: #151515;
+  border-bottom: 1px solid #222222;
+  padding: 60px 0 30px 0;
+}
+
+#footer .footer-top .footer-info {
+  margin-bottom: 30px;
+}
+
+#footer .footer-top .footer-info h3 {
+     font-family: 'Oswald', sans-serif!important;
+    font-size: 33.33px;
+    font-weight: 400;
+    text-transform: uppercase;
+}
+
+
+
+#footer .footer-top .footer-info p {
+  font-size: 16px;
+  line-height: 24px;
+  margin-bottom: 0;
+    font-family: 'Montserrat', sans-serif;
+  color: #fff;
+}
+
+#footer .footer-top .social-links a {
+  font-size: 18px;
+  display: inline-block;
+  background: #292929;
+  color: #fff;
+  line-height: 1;
+  padding: 8px 0;
+  margin-right: 4px;
+  border-radius: 50%;
+  text-align: center;
+  width: 36px;
+  height: 36px;
+  transition: 0.3s;
+}
+
+#footer .footer-top .social-links a:hover {
+  background: #e8631c;
+  color: #fff;
+  text-decoration: none;
+}
+
+#footer .footer-top h4 {
+  font-family: 'Oswald', sans-serif!important;
+    font-size: 33.33px;
+    font-weight: 400;
+    text-transform: uppercase;
+  position: relative;
+  padding-bottom: 12px;
+}
+
+#footer .footer-top .footer-links {
+  margin-bottom: 30px;
+}
+
+#footer .footer-top .footer-links ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+#footer .footer-top .footer-links ul i {
+  padding-right: 2px;
+  color: #ffc451;
+  font-size: 18px;
+  line-height: 1;
+}
+
+#footer .footer-top .footer-links ul li {
+  padding: 10px 0;
+  display: flex;
+  align-items: center;
+}
+
+#footer .footer-top .footer-links ul li:first-child {
+  padding-top: 0;
+}
+
+#footer .footer-top .footer-links ul a {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 16px;
+  color: #fff;
+  transition: 0.3s;
+  display: inline-block;
+  line-height: 1;
+}
+
+#footer .footer-top .footer-links ul a:hover {
+  color: #e8631c;
+}
+
+
+
+
+/*Footer End*/
